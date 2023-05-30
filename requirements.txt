@@ -1,0 +1,15 @@
+requests
+urllib3
+httplib2
+httpx
+opencv-python 
+screeninfo
+pillow
+matplotlib
+keyboard
+tensorflow
+scikit-learn
+plotly
+pyyaml 
+h5py
+pytesseract
